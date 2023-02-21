@@ -55,10 +55,9 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 
 ### 1.4 Diagramme
 
-![JumpRun](https://user-images.githubusercontent.com/110893594/220319488-241892a7-dad7-40f5-966c-4de92b048099.png)
+![JumpRun2](https://user-images.githubusercontent.com/110893594/220322372-9c95d3dc-fbd3-4c79-9731-65979f5f26a8.png)
 
 ![Pap LA_1500](https://user-images.githubusercontent.com/110893098/220320898-288013e3-080c-4a50-ac8a-669ab5964c91.png)
-
 
 ## 2 Planen
 
