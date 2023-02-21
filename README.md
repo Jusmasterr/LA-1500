@@ -33,6 +33,13 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 | 8 |   kann              |  funktional    |   Pausenmenu während einem Run                   |
 | 9 |  kann               | funktional     |    Mapauswahl vor dem Start eines Runs            |
 | 10  |   kann              |   funktional   | Button um das Spiel verlassen                |
+| 11 |  kann               |  funktional    |   Aufnehmbare Getränke welche einen zfäligen Effekt geben                               |
+| 12 |   kann              |   funktional   |   Jump boost Effekt (erhöht die Sprünge)                              |
+| 13  |   kann              |  funktional    |  Unsterbbarkeit Effekt (macht Figur unsterblich)                             |
+| 14  |     kann            |  funktional    |  Extra life Effekt (Gibt der Figur ein zusätzliches Leben)                             |
+| 15  |    kann             |  funktional    |  Speed boost Effekt (erhöht die Geschwindigkeit der Figur drastisch)                                  |
+
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
