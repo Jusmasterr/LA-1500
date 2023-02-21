@@ -6,7 +6,7 @@ Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 21.02.2023      | 0.0.1   | Heute haben wir die User Stories, ein Pap und ein Use Case Driagramm erstellt. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -42,6 +42,8 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 
 
 
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -53,7 +55,7 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 
 ### 1.4 Diagramme
 
-
+![JumpRun](https://user-images.githubusercontent.com/110893594/220319488-241892a7-dad7-40f5-966c-4de92b048099.png)
 
 ![Pap LA_1500](https://user-images.githubusercontent.com/110893098/220320898-288013e3-080c-4a50-ac8a-669ab5964c91.png)
 
