@@ -1,9 +1,8 @@
 # LA-1500
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -15,9 +14,9 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren eine Nachstellung des Chrome Dino run game.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Unser Ziel ist es ein Spiel zu coden welches möglichst gleich ist wie das Chrome Dino run game. Das Spiel ist zweidimensional und besteht aus einem Charakter welcher rennt und dabei Hindernissen ausweicht. Das macht man indem man sich entweder duckt oder springt. Während einem Run erhöht sich die Geschwindigkeit immer weiter bis man in eine Hinderniss rennt. Wir orientieren uns nur am Spielprinzip. Die Figur und die anderen Elemente designen wir selber.
 
 ### 1.2 User Stories
 
