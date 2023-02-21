@@ -16,14 +16,24 @@ Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 
 Wir programmieren eine Nachstellung des Chrome Dino run game.
 
-Unser Ziel ist es ein Spiel zu coden welches möglichst gleich ist wie das Chrome Dino run game. Das Spiel ist zweidimensional und besteht aus einem Charakter welcher rennt und dabei Hindernissen ausweicht. Das macht man indem man sich entweder duckt oder springt. Während einem Run erhöht sich die Geschwindigkeit immer weiter bis man in eine Hinderniss rennt. Wir orientieren uns nur am Spielprinzip. Die Figur und die anderen Elemente designen wir selber.
+Unser Ziel ist es ein Spiel zu coden welches möglichst gleich ist wie das Chrome Dino run game. Das Spiel ist zweidimensional und besteht aus einem Charakter welcher rennt und dabei Hindernissen ausweicht. Das macht man indem man sich entweder duckt oder springt. Während einem Run erhöht sich die Geschwindigkeit immer weiter bis man in eine Hinderniss rennt. Wir orientieren uns nur am Spielprinzip. Die Figur und die anderen Elemente designen wir selber. Wir implementieren dieses Spiel mit C# WIN Forms.
+Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Picture Box im Form herumbewegen kann.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | kann               | funktional     | Startbildschirm nach Programmstart. |
+| 2  |    muss             |  funktional    |    Startbutton um das Spiel zu starten.             |
+| 3  |      muss           |  funktional    |  Figur kann springen und doppelt Springen.          |
+| 4  |   muss              |  funktional    |  Verschiedengrosse Objekte zum drüberspringen kommen auf die Figur zu.              |
+| 5  |     muss            | funktional     |    Game over wenn ein Objekt berührt wird.        |
+| 6 |  kann               | funktional     |     Highscoreanzeige nach Game over                      |
+| 7  |   kann              |  funktional    |        Figur wechseln im Startbildschirm                |
+| 8 |   kann              |  funktional    |   Pausenmenu während einem Run                   |
+| 9 |  kann               | funktional     |    Mapauswahl vor dem Start eines Runs            |
+| 10  |   kann              |   funktional   | Button um das Spiel verlassen                |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
