@@ -16,8 +16,8 @@ Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 
 Wir programmieren eine Nachstellung des Chrome Dino run game.
 
-Unser Ziel ist es ein Spiel zu coden welches möglichst gleich ist wie das Chrome Dino run game. Das Spiel ist zweidimensional und besteht aus einem Charakter welcher rennt und dabei Hindernissen ausweicht. Das macht man indem man sich entweder duckt oder springt. Während einem Run erhöht sich die Geschwindigkeit immer weiter bis man in ein Hindernis rennt. Wir orientieren uns nur am Spielprinzip. Die Figur und die anderen Elemente designen wir selber. Wir implementieren dieses Spiel mit C# WIN Forms.
-Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Picture Box im Form herumbewegen kann.
+Unser Ziel ist es ein Spiel zu coden welches ähnlich ist, wie das Chrome Dino run game. Das Spiel ist zweidimensional und besteht aus einem Charakter welcher rennt und dabei Hindernissen ausweicht. Das macht man indem man springt. Während einem Run erhöht sich die Geschwindigkeit immer weiter bis man in ein Hindernis rennt. Wir orientieren uns nur am Spielprinzip. Die Figur und die anderen Elemente designen wir selber. Wir implementieren dieses Spiel mit Unity.
+Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur im Spiel herumbewegen kann.
 
 ### 1.2 User Stories
 
