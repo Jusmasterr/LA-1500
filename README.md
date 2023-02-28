@@ -66,7 +66,7 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 | 12.1  | Mit Jumpboost Getränk kollidiert             |    -     |   Sprungkraft verdoppelt sich                |
 | 13.1  | Mit Unsterblichkeitsgetränk kollidiert         |    Kollision mit Objekt    |     Objekt verschwindet (kein Game over)           |
 | 14.1  | Mit Extra-Life Getränk kollidiert             |    Kollision mit Objekt     |         Objekt verschwindet (ein Mal)          |
-| 15.1  | Mit Speed-Boost Getränk kollidiert             |         |         Geschwindigkeit wird erhöht         |
+| 15.1  | Mit Speed-Boost Getränk kollidiert             |    -     |         Geschwindigkeit wird erhöht         |
 
 
 ### 1.4 Diagramme
