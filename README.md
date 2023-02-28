@@ -76,7 +76,10 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 
 ![JumpRun2](https://user-images.githubusercontent.com/110893594/220322372-9c95d3dc-fbd3-4c79-9731-65979f5f26a8.png)
 
-![Pap LA_1500](https://user-images.githubusercontent.com/110893098/220320898-288013e3-080c-4a50-ac8a-669ab5964c91.png)
+![Projekt](https://user-images.githubusercontent.com/112430127/221799847-37dea31e-d0e2-4c67-bfaf-5c0a956a12c5.png)
+
+
+
 
 ## 2 Planen
 
