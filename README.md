@@ -29,16 +29,16 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 4  |   muss              |  funktional    |  Als User möchte ich, dass Verschiedengrosse Objekte zum drüber Springen auf mich zukommen, damit das Spiel spannender ist.            |
 | 5  |     muss            | funktional     | Als User möchte ich, dass Game Over ist, wenn ich ein Objekt berühre und kein Extraleben mehr habe, damit ich weiss, dass das Spiel beendet wurde.         |
 | 6 |  kann               | funktional     |  Als User möchte ich eine Highscoreanzeige nach Game Over, damit ich weiss, wie hoch mein Score in diesem Run war.                       |
-| 7  |   kann              |  funktional    |  Als User möchte ich die Figur wechseln können im Startbildschirm, damit ich mehr Abwechslung bei meiner Figur habe.               |
+| 7  |   kann              |  Qualitativ    |  Als User möchte ich die Figur wechseln können im Startbildschirm, damit ich mehr Abwechslung bei meiner Figur habe.               |
 | 8 |   kann              |  funktional    |   Als User möchte ich das Pausenmenu öffnen können, während einem Run, damit ich den Run temporär Unterbrechen kann.                  |
 | 9 |  kann               | funktional     | Als User möchte ich eine Mapauswahl vor dem Start eines Runs haben, damit ich mehr Abwechslung im Spiel habe.             |
-| 10  |   kann              |   funktional   | Als User möchte ich einen Button, um das Spiel verlassen zu können, damit ich das Spiel beenden kann.              |
-| 11 |  kann               |  funktional    | Als User möchte ich Getränke aufsammeln können, welche einen zufälligen Effekt geben, damit das Spielerlebnis interessanter ist.    |
-| 12 |   kann              |   funktional   |  Als User möchte ich, wenn ich das  Jump boost Effekt Getränk einsammle, dass meine Sprünge doppelt so hoch sind, damit ich den Objekten besser ausweichen kann.              |
-| 13  |   kann              |  funktional    |  Als User möchte ich, wenn ich das Unsterblichkeit Effekt Getränk einsammle, dass ich Immun gegen alle Objekte bin, damit ich so länger überleben kann.   |
-| 14  |     kann            |  funktional    | Als User möchte ich, wenn ich das Extra life Getränk einsammle, dass ich ein zusätzliches Leben erhalte, damit falls ich ein Objekt berühre eine weitere Chance habe.             |
-| 15  |    kann             |  funktional    | Als User möchte ich, wenn ich das Speed Boost Effekt Getränk einsammle, dass meine Figur viel schneller rennt,  damit das Spiel für kurze Zeit schwieriger wird. |
-| 16  |   kann              |  funktional    | Als User möchte ich, dass alle Getränke ausser Extra life 5 sekunden dauern, damit ich den Effekt nicht das ganze Spiel habe.   |
+| 10  |   muss              |   funktional   | Als User möchte ich einen Button, um das Spiel verlassen zu können, damit ich das Spiel beenden kann.              |
+| 11 |  muss               |  funktional    | Als User möchte ich Getränke aufsammeln können, welche einen zufälligen Effekt geben, damit das Spielerlebnis interessanter ist.    |
+| 12 |   muss              |   funktional   |  Als User möchte ich, wenn ich das  Jump boost Effekt Getränk einsammle, dass meine Sprünge doppelt so hoch sind, damit ich den Objekten besser ausweichen kann.              |
+| 13  |   muss             |  funktional    |  Als User möchte ich, wenn ich das Unsterblichkeit Effekt Getränk einsammle, dass ich Immun gegen alle Objekte bin, damit ich so länger überleben kann.   |
+| 14  |     muss            |  funktional    | Als User möchte ich, wenn ich das Extra life Getränk einsammle, dass ich ein zusätzliches Leben erhalte, damit falls ich ein Objekt berühre eine weitere Chance habe.             |
+| 15  |    muss             |  funktional    | Als User möchte ich, wenn ich das Speed Boost Effekt Getränk einsammle, dass meine Figur viel schneller rennt,  damit das Spiel für kurze Zeit schwieriger wird. |
+| 16  |   muss              |  funktional    | Als User möchte ich, dass alle Getränke ausser Extra life 5 sekunden dauern, damit ich den Effekt nicht das ganze Spiel habe.   |
 | 17  |     kann            |  funktional    | Als User möchte ich einen Timer haben, welcher mir die verbleibende Zeit des Effekts angibt, damit ich weiss wie lange der Effekt noch anhält.  |
 | 18  |    kann             |  funktional    |  Als User möchte ich einen Explosions Animation haben wenn ich mit dem Immun Effekt durch Objekte renne.              |
 
