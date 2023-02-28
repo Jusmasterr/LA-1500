@@ -42,16 +42,32 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Programm gestartet            |    -     |   Startbildschirm angezeigt         |
+| 2.1 |  im Startbildschirm            |   Startbutton gedrückt     |       Spiel startet            |
+| 3.1 |  im Spiel            |    Spacebar gedrückt     |      Figur springt             |
+| 3.2 |  im Sprung            |    Spacebar gedrückt     |        zweiter Sprung           |
+| 4.1  |  im Spiel            |    -     |        Objekt zum bewegt sich auf die Figur zu           |
+| 5.1 |   Im Spiel mit Objekt kolidiert           |    -     |   Game over           |
+| 6.1  |   Game over           |     -    |    Highscore wird angezeigt               |
+| 7.1  |   im Startbildschirm           |    auf Figur wechseln gedrückt    |    Figurenanzeige wird angezeigt              |
+| 7.2 |     in Figurenanzeige         |    auf Figur x gedrückt     |   Figur x als Spielfigur ausgewählt                |
+| 8.1 |   im Spiel           |    Esc oder Pause-button gedrückt     |        Pausenmenu angezeigt           |
+| 8.2  |  im Pausenmenu       |  Quit-Button gedrückt       |      Zum Startbildschirm             |
+| 8.3  |  im Pausenmenu            |    Resume-Button gedrückt     |   Zurück zum Spiel                |
+| 9.1 |   Im Startbildschirm           |    Mapauswahl-Button gedrückt     |       Mapauswahl angezeigt            |
+| 9.2  |  In Mapauswahl            |   Map x ausgewählt      |   Map x für den nächsten Spieldurchlauf                |
+| 10.1 | Im Startbildschirm             |  QUIT GAME Button gedrückt       |    Programm wird geschlossen               |
+| 11.1  | Im Spiel             |   Figur mit Getränk x kollidiert     |   Figur erhält Effekt x                |
+| 12.1  | Mit Jumpboost Getränk kollidiert             |    -     |   Sprungkraft verdoppelt sich                |
+| 13.1  | Mit Unsterblichkeitsgetränk kollidiert         |    Kollision mit Objekt    |     Objekt verschwindet (kein Game over)           |
+| 14.1  | Mit Extra-Life Getränk kollidiert             |    Kollision mit Objekt     |         Objekt verschwindet (ein Mal)          |
+| 15.1  | Mit Speed-Boost Getränk kollidiert             |         |         Geschwindigkeit wird erhöht         |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
