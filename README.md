@@ -37,7 +37,10 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 12 |   kann              |   funktional   |  Als User möchte ich, wenn ich das  Jump boost Effekt Getränk einsammle, dass meine Sprünge doppelt so hoch sind, damit ich den Objekten besser ausweichen kann.              |
 | 13  |   kann              |  funktional    |  Als User möchte ich, wenn ich das Unsterblichkeit Effekt Getränk einsammle, dass ich Immun gegen alle Objekte bin, damit ich so länger überleben kann.   |
 | 14  |     kann            |  funktional    | Als User möchte ich, wenn ich das Extra life Getränk einsammle, dass ich ein zusätzliches Leben erhalte, damit falls ich ein Objekt berühre eine weitere Chance habe.             |
-| 15  |    kann             |  funktional    | Als User möchte ich, wenn ich das Speed Boost Effekt Getränk einsammle, dass meine Figur viel schneller rennt,                                 |
+| 15  |    kann             |  funktional    | Als User möchte ich, wenn ich das Speed Boost Effekt Getränk einsammle, dass meine Figur viel schneller rennt,  damit das Spiel für kurze Zeit schwieriger wird. |
+| 16  |   kann              |  funktional    | Als User möchte ich, dass alle Getränke ausser Extra life 5 sekunden dauern, damit ich den Effekt nicht das ganze Spiel habe.   |
+| 17  |     kann            |  funktional    | Als User möchte ich einen Timer haben, welcher mir die verbleibende Zeit des Effekts angibt, damit ich weiss wie lange der Effekt noch anhält.  |
+| 18  |    kann             |  funktional    |  Als User möchte ich einen Explosions Animation haben wenn ich mit dem Immun Effekt durch Objekte renne.              |
 
 
 
