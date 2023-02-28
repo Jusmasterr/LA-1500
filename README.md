@@ -7,7 +7,7 @@ Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 21.02.2023      | 0.0.1   | Heute haben wir die User Stories, ein Pap und ein Use Case Driagramm erstellt. |
-|       | ...     |                                                              |
+| 28.02.2023      | 0.0.2     | Heute haben wir die User Stories erweitert, den Plan erstellt und Unity installiert.                                                            |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
