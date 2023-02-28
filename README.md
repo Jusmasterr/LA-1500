@@ -23,21 +23,21 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Pictu
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | kann               | funktional     | Startbildschirm nach Programmstart. |
-| 2  |    muss             |  funktional    |    Startbutton um das Spiel zu starten.             |
-| 3  |      muss           |  funktional    |  Figur kann springen und doppelt Springen.          |
-| 4  |   muss              |  funktional    |  Verschiedengrosse Objekte zum drüberspringen kommen auf die Figur zu.              |
-| 5  |     muss            | funktional     |    Game over wenn ein Objekt berührt wird.        |
-| 6 |  kann               | funktional     |     Highscoreanzeige nach Game over                      |
-| 7  |   kann              |  funktional    |        Figur wechseln im Startbildschirm                |
-| 8 |   kann              |  funktional    |   Pausenmenu während einem Run                   |
-| 9 |  kann               | funktional     |    Mapauswahl vor dem Start eines Runs            |
-| 10  |   kann              |   funktional   | Button um das Spiel verlassen                |
-| 11 |  kann               |  funktional    |   Aufnehmbare Getränke welche einen zfäligen Effekt geben                               |
-| 12 |   kann              |   funktional   |   Jump boost Effekt (erhöht die Sprünge)                              |
-| 13  |   kann              |  funktional    |  Unsterbbarkeit Effekt (macht Figur unsterblich)                             |
-| 14  |     kann            |  funktional    |  Extra life Effekt (Gibt der Figur ein zusätzliches Leben)                             |
-| 15  |    kann             |  funktional    |  Speed boost Effekt (erhöht die Geschwindigkeit der Figur drastisch)                                  |
+| 1    | kann               | funktional     | Als User möchte ich, ein Startbildschirm nach Programmstart sehen, damit ich weiss, dass ich im Spiel bin. |
+| 2  |    muss             |  funktional    |  Als User möchte ich ein Startbutton, damit ich das Spiel starten kann.            |
+| 3  |      muss           |  funktional    | Als User möchte ich, dass meine Figur springen und doppelt Springen kann, damit ich den Objekten ausweichen kann.           |
+| 4  |   muss              |  funktional    |  Als User möchte ich, dass Verschiedengrosse Objekte zum drüber Springen auf mich zukommen, damit das Spiel spannender ist.            |
+| 5  |     muss            | funktional     | Als User möchte ich, dass Game Over ist, wenn ich ein Objekt berühre und kein Extraleben mehr habe, damit ich weiss, dass das Spiel beendet wurde.         |
+| 6 |  kann               | funktional     |  Als User möchte ich eine Highscoreanzeige nach Game Over, damit ich weiss, wie hoch mein Score in diesem Run war.                       |
+| 7  |   kann              |  funktional    |  Als User möchte ich die Figur wechseln können im Startbildschirm, damit ich mehr Abwechslung bei meiner Figur habe.               |
+| 8 |   kann              |  funktional    |   Als User möchte ich das Pausenmenu öffnen können, während einem Run, damit ich den Run temporär Unterbrechen kann.                  |
+| 9 |  kann               | funktional     | Als User möchte ich eine Mapauswahl vor dem Start eines Runs haben, damit ich mehr Abwechslung im Spiel habe.             |
+| 10  |   kann              |   funktional   | Als User möchte ich einen Button, um das Spiel verlassen zu können, damit ich das Spiel beenden kann.              |
+| 11 |  kann               |  funktional    | Als User möchte ich Getränke aufsammeln können, welche einen zufälligen Effekt geben, damit das Spielerlebnis interessanter ist.    |
+| 12 |   kann              |   funktional   |  Als User möchte ich, wenn ich das  Jump boost Effekt Getränk einsammle, dass meine Sprünge doppelt so hoch sind, damit ich den Objekten besser ausweichen kann.              |
+| 13  |   kann              |  funktional    |  Als User möchte ich, wenn ich das Unsterblichkeit Effekt Getränk einsammle, dass ich Immun gegen alle Objekte bin, damit ich so länger überleben kann.   |
+| 14  |     kann            |  funktional    | Als User möchte ich, wenn ich das Extra life Getränk einsammle, dass ich ein zusätzliches Leben erhalte, damit falls ich ein Objekt berühre eine weitere Chance habe.             |
+| 15  |    kann             |  funktional    | Als User möchte ich, wenn ich das Speed Boost Effekt Getränk einsammle, dass meine Figur viel schneller rennt,                                 |
 
 
 
