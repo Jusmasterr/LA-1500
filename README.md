@@ -74,12 +74,9 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 
 ### 1.4 Diagramme
 
-![JumpRun2](https://user-images.githubusercontent.com/110893594/220322372-9c95d3dc-fbd3-4c79-9731-65979f5f26a8.png)
+![Use-Case Nr 3 drawio](https://user-images.githubusercontent.com/110893594/221805585-0448406b-4893-4fca-9dfe-a177ebdbb0f5.png)
 
 ![Projekt](https://user-images.githubusercontent.com/112430127/221799847-37dea31e-d0e2-4c67-bfaf-5c0a956a12c5.png)
-
-
-
 
 ## 2 Planen
 
