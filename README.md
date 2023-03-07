@@ -36,11 +36,12 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 11 |  muss               |  funktional    | Als User möchte ich Getränke aufsammeln können, welche einen zufälligen Effekt geben, damit das Spielerlebnis interessanter ist.    |
 | 12 |   muss              |   funktional   |  Als User möchte ich, wenn ich das  Jump boost Effekt Getränk einsammle, dass meine Sprünge doppelt so hoch sind, damit ich den Objekten besser ausweichen kann.              |
 | 13  |   muss             |  funktional    |  Als User möchte ich, wenn ich das Unsterblichkeit Effekt Getränk einsammle, dass ich Immun gegen alle Objekte bin, damit ich so länger überleben kann.   |
-| 14  |     muss            |  funktional    | Als User möchte ich, wenn ich das Extra life Getränk einsammle, dass ich ein zusätzliches Leben erhalte, damit falls ich ein Objekt berühre eine weitere Chance habe.             |
+| 14  |     muss            |  funktional    | Als User möchte ich, wenn ich durch einen Ring durchlaufe, dass ich beginne zu fliegen und durch verschiedene weitere Ringe durchfliegen muss, damit ich ein Extra life bekommen kann.   | 
 | 15  |    muss             |  funktional    | Als User möchte ich, wenn ich das Speed Boost Effekt Getränk einsammle, dass meine Figur viel schneller rennt,  damit das Spiel für kurze Zeit schwieriger wird. |
 | 16  |   muss              |  funktional    | Als User möchte ich, dass alle Getränke ausser Extra life 5 sekunden dauern, damit ich den Effekt nicht das ganze Spiel habe.   |
 | 17  |     kann            |  funktional    | Als User möchte ich einen Timer haben, welcher mir die verbleibende Zeit des Effekts angibt, damit ich weiss wie lange der Effekt noch anhält.  |
-| 18  |    kann             |  funktional    |  Als User möchte ich einen Explosions Animation haben wenn ich mit dem Immun Effekt durch Objekte renne.              |
+| 18  |    kann             |  funktional    |  Als User möchte ich einen Explosions Animation haben wenn ich mit dem Immun Effekt durch Objekte renne.  |   
+| 19  |    muss            |  funktional    |  Als User möchte ich, wenn ich beim Extra life den Boden oder die Decke berühre, dass ich sterbe, damit das Spiel nicht zu einfach ist | 
 
 
 
@@ -93,9 +94,9 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 9.A  |07.03.2023          |  Hitz        | Mapauswahl             | 3*45              |
 | 10.A  |07.03.2023         | Schneider          | Button Spielverlass             | 30'              |
 | 11.A  |07.03.2023         | Meister          | Getränke aufsammeln            | 45'              |
-| 12.A  |07.03.2023         | Hitz          |              | 3*45'              |
+| 12.A  |07.03.2023         | Hitz          | Jump boost          | 3*45'              |
 | 13.A  |07.03.2023         | Schneider          | Unsterblichkeit           | 45'              |
-| 14.A  |07.03.2023         | Meister          | Extra life           | 20'              |
+| 14.A  |07.03.2023         | Meister          | Extra life           | 3*45'              |
 | 15.A  |07.03.2023         | Angelov          | Speed Boost            | 20'              |
 | 16.A  |07.03.2023         | Lai          | Dauer der Getränke            | 30'              |
 | 17.A  |07.03.2023         | Lai          | Timer vom Effekt            | 20'              |
