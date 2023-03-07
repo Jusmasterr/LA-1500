@@ -42,7 +42,7 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 17  |     kann            |  funktional    | Als User möchte ich einen Timer haben, welcher mir die verbleibende Zeit des Effekts angibt, damit ich weiss wie lange der Effekt noch anhält.  |
 | 18  |    kann             |  funktional    |  Als User möchte ich einen Explosions Animation haben wenn ich mit dem Immun Effekt durch Objekte renne.  |   
 | 19  |    muss            |  funktional    |  Als User möchte ich, wenn ich beim Extra life den Boden oder die Decke berühre, dass ich sterbe, damit das Spiel nicht zu einfach ist | 
-| 18  |    muss             |  funktional    |  Als User möchte ich, wenn ich in das Reverse Item laufe, dass die Ganze Welt gedreht wird, damit es noch mehr Abwechslung im Spiel gibt. |
+| 20  |    muss             |  funktional    |  Als User möchte ich, wenn ich in das Reverse Item laufe, dass die Ganze Welt gedreht wird, damit es noch mehr Abwechslung im Spiel gibt. |
 
 
 
@@ -70,7 +70,6 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 12.1  | Mit Jumpboost Getränk kollidiert             |    -     |   Sprungkraft verdoppelt sich                |
 | 13.1  | Mit Unsterblichkeitsgetränk kollidiert         |    Kollision mit Objekt    |     Objekt verschwindet (kein Game over)           |
 | 14.1  | Mit Extra-Life Getränk kollidiert             |    Kollision mit Objekt     |         Objekt verschwindet (ein Mal)          |
-| 15.1  | Mit Speed-Boost Getränk kollidiert             |    -     |         Geschwindigkeit wird erhöht         |
 
 
 ### 1.4 Diagramme
@@ -101,7 +100,8 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 16.A  |07.03.2023         | Lai          | Dauer der Getränke            | 30'              |
 | 17.A  |07.03.2023         | Lai          | Timer vom Effekt            | 20'              |
 | 18.A  |07.03.2023         | Meister          | Explosions Animation bei Immunität           | 45'              |
-
+| 19.A  |07.03.2023         | Schneider         | Sterben Brührung Boden / Decke bei Extra Leben          | 30'              |
+| 20.A  |07.03.2023         | Meister          | Reverse Item        | 3*45'              |
 
 Total: 
 
@@ -111,7 +111,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langweilig ist.
 
 ## 4 Realisieren
 
