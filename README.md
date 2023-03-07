@@ -74,7 +74,7 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 
 ### 1.4 Diagramme
 
-![Use-Case Nr 3 drawio](https://user-images.githubusercontent.com/110893594/221805585-0448406b-4893-4fca-9dfe-a177ebdbb0f5.png)
+![Use Case3](https://user-images.githubusercontent.com/110893594/223396164-56e99d7a-37c9-4df0-b84c-3fac25f2dc5a.png)
 
 ![Projekt](https://user-images.githubusercontent.com/112430127/221799847-37dea31e-d0e2-4c67-bfaf-5c0a956a12c5.png)
 
