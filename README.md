@@ -70,13 +70,19 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 12.1  | Mit Jumpboost Getränk kollidiert             |    -     |   Sprungkraft verdoppelt sich                |
 | 13.1  | Mit Unsterblichkeitsgetränk kollidiert         |    Kollision mit Objekt    |     Objekt verschwindet (kein Game over)           |
 | 14.1  | Mit Extra-Life Getränk kollidiert             |    Kollision mit Objekt     |         Objekt verschwindet (ein Mal)          |
-
+| 15.1  | | | |
+| 16.1  | | | |
+| 17.1  | | | |
+| 18.1  | | | |
+| 19.1  | | | |
+| 20.1  | | | |
 
 ### 1.4 Diagramme
 
 ![Use Case3](https://user-images.githubusercontent.com/110893594/223396164-56e99d7a-37c9-4df0-b84c-3fac25f2dc5a.png)
 
-![Projekt](https://user-images.githubusercontent.com/112430127/221799847-37dea31e-d0e2-4c67-bfaf-5c0a956a12c5.png)
+![Hauptprogramm 1](https://user-images.githubusercontent.com/112430127/223637189-e5105e0e-686f-4076-b4a0-4e4d45446636.png)
+
 
 ## 2 Planen
 
