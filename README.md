@@ -101,7 +101,7 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 16.A  |07.03.2023         | Lai          | Dauer der Getränke            | 30'              |
 | 17.A  |07.03.2023         | Lai          | Timer vom Effekt            | 20'              |
 | 18.A  |07.03.2023         | Meister          | Explosions Animation bei Immunität           | 45'              |
-| 19.A  |07.03.2023         | Schneider         | Sterben Brührung Boden / Decke bei Extra Leben          | 30'              |
+| 19.A  |07.03.2023         | Schneider         | Sterben Berührung Boden / Decke bei Extra Leben          | 30'              |
 | 20.A  |07.03.2023         | Meister          | Reverse Item        | 3*45'              |
 
 Total: 
@@ -119,7 +119,7 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 3.A  | 07.03.2022  | Justus  |  45'      | 2*45'             |
-| ...  |       |           |               |                   |
+| 5.A  | 07.03.2022  | Lai     |  30'             | 45'        |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
