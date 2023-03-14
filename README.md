@@ -76,7 +76,7 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 
 ![Use Case3](https://user-images.githubusercontent.com/110893594/223396164-56e99d7a-37c9-4df0-b84c-3fac25f2dc5a.png)
 
-![Hauptprogramm 1](https://user-images.githubusercontent.com/112430127/223637189-e5105e0e-686f-4076-b4a0-4e4d45446636.png)
+![Hauptprogramm 1](https://user-images.githubusercontent.com/112430127/224925251-b8248ddc-687b-49c4-97d2-8265cb970278.png)
 
 
 ## 2 Planen
