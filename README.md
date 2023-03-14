@@ -83,28 +83,26 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 07.03.2023        |  Hitz            |Startbildschirm            |30'
-| 2.A  | 07.03.2023         | Angelov          | Startbutton             | 30'              |
-| 3.A  | 07.03.2023         | Meister          | Springen Figur             | 45'              |
-| 4.A  |07.03.2023          | Hitz          | Hindernisse             |2*45'           |
-| 5.A  | 07.03.2023         |  Lai         | Spielende            | 30'              |
-| 6.A  |07.03.2023          |  Angelov         | Highscoreanzeige             | 30'              |
-| 7.A  |07.03.2023          |  Hitz         | Wechsel der Figur             | 2*45              |
-| 8.A  |07.03.2023          | Schneider          | Pausenmenu             | 30'              |
-| 9.A  |07.03.2023          |  Hitz        | Mapauswahl             | 3*45              |
-| 10.A  |07.03.2023         | Schneider          | Button Spielverlass             | 30'              |
-| 11.A  |07.03.2023         | Meister          | Getränke aufsammeln            | 45'              |
-| 12.A  |07.03.2023         | Hitz          | Jump boost          | 3*45'              |
-| 13.A  |07.03.2023         | Schneider          | Unsterblichkeit           | 45'              |
-| 14.A  |07.03.2023         | Meister          | Extra life           | 3*45'              |
-| 15.A  |07.03.2023         | Angelov          | Speed Boost            | 20'              |
-| 16.A  |07.03.2023         | Lai          | Dauer der Getränke            | 30'              |
-| 17.A  |07.03.2023         | Lai          | Timer vom Effekt            | 20'              |
-| 18.A  |07.03.2023         | Meister          | Explosions Animation bei Immunität           | 45'              |
-| 19.A  |07.03.2023         | Schneider         | Sterben Berührung Boden / Decke bei Extra Leben          | 30'              |
-| 20.A  |07.03.2023         | Meister          | Reverse Item        | 3*45'              |
-
-Total: 
+| 1.A  | 14.03.2023        |  Hitz            |Startbildschirm            |30'
+| 2.A  | 14.03.2023         | Angelov          | Startbutton             | 30'              |
+| 3.A  | 14.03.2023         | Meister          | Springen Figur             | 45'              |
+| 4.A  |14.03.2023          | Hitz          | Hindernisse             |2*45'           |
+| 5.A  | 14.03.2023         |  Lai         | Spielende            | 30'              |
+| 6.A  |21.03.2023          |  Angelov         | Highscoreanzeige             | 30'              |
+| 7.A  |21.03.2023          |  Hitz         | Wechsel der Figur             | 2*45              |
+| 8.A  |21.03.2023          | Schneider          | Pausenmenu             | 30'              |
+| 9.A  |21.03.2023          |  Hitz        | Mapauswahl             | 3*45              |
+| 10.A  |14.03.2023         | Schneider          | Button Spielverlass             | 30'              |
+| 11.A  |14.03.2023         | Meister          | Getränke aufsammeln            | 45'              |
+| 12.A  |14.03.2023         | Hitz          | Jump boost          | 3*45'              |
+| 13.A  |14.03.2023         | Schneider          | Unsterblichkeit           | 45'              |
+| 14.A  |14.03.2023         | Meister          | Extra life           | 3*45'              |
+| 15.A  |14.03.2023         | Angelov          | Speed Boost            | 20'              |
+| 16.A  |14.03.2023         | Lai          | Dauer der Getränke            | 30'              |
+| 17.A  |14.03.2023         | Lai          | Timer vom Effekt            | 20'              |
+| 18.A  |21.03.2023         | Meister          | Explosions Animation bei Immunität           | 45'              |
+| 19.A  |14.03.2023         | Schneider         | Sterben Berührung Boden / Decke bei Extra Leben          | 30'              |
+| 20.A  |14.03.2023         | Meister          | Reverse Item        | 3*45'              | 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
