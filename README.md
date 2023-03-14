@@ -118,7 +118,7 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 3.A  | 07.03.2022  | Justus  |  45'      | 2*45'             |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
