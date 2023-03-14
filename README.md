@@ -116,17 +116,18 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 07.03.2022  | Justus  |  45'      | 2*45'             |
-| 2.A  | 07.03.2022  | Lai     |  30'             | 45'        |
-| 3.A  |   |       |               |        |
-| 4.A  |   |       |               |        |
+| 1.A  |07.03.2023      | Angelov      |  30'           | 45'        |
+| 1.A  |14.03.2023      | Angelov      |  30'           | 2*45'        |
+| 2.A  |14.03      | Angelov     |  30'            | 45*        |
+| 3.A  |07.03.2022   | Justus      | 45'              | 2*45'       |
+| 4.A  |07.03.2022   | Hitz      | 45'              | 3*45       |
 | 5.A  |   |       |               |        |
 | 6.A  |   |       |               |        |
 | 7.A  |   |       |               |        |
 | 8.A  |   |       |               |        |
 | 9.A  |   |       |               |        |
 | 10.A  |   |      |               |        |
-| 11.A  |   |      |               |         |
+| 11.A  | 07.03.2023  | Lai   | 45'          | 2*45'        |
 | 12.A  |   |      |               |         |
 | 13.A  |   |      |               |         |
 | 14.A  |   |      |               |         |
