@@ -104,10 +104,6 @@ Wir wollen in diesem Projekt lernen wie man Elemente wie zum Beispiel eine Figur
 | 19.A  |14.03.2023         | Schneider         | Sterben Berührung Boden / Decke bei Extra Leben          | 30'              |
 | 20.A  |14.03.2023         | Meister          | Reverse Item        | 3*45'              | 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
 Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langweilig ist.
@@ -121,22 +117,22 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 | 2.A  |14.03      | Angelov     |  30'            | 45*        |
 | 3.A  |07.03.2022   | Justus      | 45'              | 2*45'       |
 | 4.A  |07.03.2022   | Hitz      | 45'              | 3*45       |
-| 5.A  |   |       |               |        |
-| 6.A  |   |       |               |        |
-| 7.A  |   |       |               |        |
-| 8.A  |   |       |               |        |
-| 9.A  |   |       |               |        |
-| 10.A  |   |      |               |        |
+| 5.A  |21.03.2023   |       |               |        |
+| 6.A  |21.03.2023   |       |               |        |
+| 7.A  |21.03.2023   |       |               |        |
+| 8.A  |21.03.2023   |       |               |        |
+| 9.A  |21.03.2023   |       |               |        |
+| 10.A  |21.03.2023   |      |               |        |
 | 11.A  | 07.03.2023  | Lai   | 45'          | 2*45'        |
-| 12.A  |   |      |               |         |
-| 13.A  |   |      |               |         |
-| 14.A  |   |      |               |         |
-| 15.A  |   |      |               |        |
-| 16.A  |   |      |                |       |
-| 17.A  |   |      |               |        |
-| 18.A  |  |       |               |         |
-| 19.A  |  |       |               |         |
-| 20.A  | |        |              |        |
+| 12.A  |21.03.2023   |      |               |         |
+| 13.A  |21.03.2023   |      |               |         |
+| 14.A  |21.03.2023   |      |               |         |
+| 15.A  |21.03.2023   |      |               |        |
+| 16.A  |21.03.2023   |      |                |       |
+| 17.A  |21.03.2023   |      |               |        |
+| 18.A  |21.03.2023  |       |               |         |
+| 19.A  |21.03.2023  |       |               |         |
+| 20.A  |21.03.2023 |        |              |        |
 
 ## 5 Kontrollieren
 
