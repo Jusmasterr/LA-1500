@@ -7,8 +7,10 @@ Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 21.02.2023      | 0.0.1   | Heute haben wir die User Stories, ein Pap und ein Use Case Driagramm erstellt. |
-| 28.02.2023      | 0.0.2     | Heute haben wir die User Stories erweitert, den Plan erstellt und Unity installiert.                                                            |
+| 28.02.2023      | 0.0.2     | Heute haben wir die User Stories erweitert, den Plan erstellt und Unity installiert.                                |
 | 07.03.2023      | 0.0.3   | Heute haben wir die Basics unseres Speils programmiert, wie die Objekte und das Springen       |
+| 14.03.2023      | 0.0.4   | Heute haben wir die Grundanforderungen des Spiels fertig PRogrammiert.      |
+| 15.03.2023      | 0.0.5   | Heute haben wir die Kann-Anforderungen weiterprogrammiert und die Präsentation für das Projekt erstellt.    |
 
 ## 1 Informieren
 
