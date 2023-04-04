@@ -3,7 +3,7 @@ Lilac: Lorenzo Lai, Justus Meister, Angel Angelov, Julian Hitz, Enrique Schneide
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben eine Art "Dino Run" von Google Chrome programmiert, mit zusätzlichen Features.
 
 ## Was habe ich gelernt?
 
