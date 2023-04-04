@@ -13,25 +13,25 @@ Wir haben in diesem Projekt gelernt, wie man Objekte in Unity in einer Schleife 
 
 Um Gegenstände zu bewegen, haben wir den folgenden Code eingesetzt. Als erstes definierten wir eine Klasse namens "BoxMovement", welche von der MonoBehaviour-Klasse erbt. Die Klasse enthält eine öffentliche Variable "speed", die auf 10 initialisiert wird. Eine Variable "run" vom Typ boolean und eine weitere Variable "rb" vom Typ "Rigidbody2D" werden ebenfalls definiert. In der Start()-Methode wird die "Rigidbody2D"-Komponente des Gameobjects geholt und der Variable "rb" zugewiesen. Die Variable "run" wird auf "true" gesetzt. Die Update()-Methode wird einmal pro Frame aufgerufen. Wenn die Variable "run" auf "true" gesetzt ist, wird die Geschwindigkeit der "Rigidbody2D"-Komponente auf einen neuen Vector2 gesetzt, wobei der X-Wert gleich 0 minus der Variablen "speed" ist und der Y-Wert gleich 0 ist. Dann wird geprüft, ob die X-Position des Gameobjects kleiner als -12 ist. Wenn dies der Fall ist, wird die Position des Gameobjects auf einen neuen Vector2 mit einem X-Wert von 14 und einem Y-Wert von -2 gesetzt. Zusammengefasst bewirkt dieser Code, dass ein Gameobject mit einer "Rigidbody2D"-Komponente in eine bestimmte Richtung bewegt wird, bis es einen bestimmten Punkt erreicht. An diesem Punkt wird das Gameobject zurückgesetzt und die Bewegung beginnt von vorne.
 
-public int speed = 10;
-bool run;
-private Rigidbody2D rb;
-
-void Start()
+public class Player : MonoBehaviour
 {
-    rb = GetComponent<Rigidbody2D>();
-    run = true;
-}
-
-void Update()
-{
-    if (run == true)
+    public float speed = 5f;
+    
+    private Rigidbody2D rb;
+    
+    void Start()
     {
-        rb.velocity = new Vector2(0 - speed, 0);
-        if (transform.position.x < -12)
-        {
-            transform.position = new Vector2(14, -2);
-        }
+        rb = GetComponent<Rigidbody2D>();
+    }
+    
+    void FixedUpdate()
+    {
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
+        
+        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
+        
+        rb.AddForce(movement * speed);
     }
 }
 
