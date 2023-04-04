@@ -24,8 +24,10 @@ Wir haben in diesem Projekt gelernt, wie man Objekte in Unity in einer Schleife 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Was lief gut?
+Wir haben regelmäßig Besprechungen abgehalten, um sicherzustellen, dass alle auf dem gleichen Stand sind und den Fortschritt der Arbeit verfolgen konnten. Wenn ein Mitglied des Teams abwesend war, haben wir uns zusätzlich abgestimmt, um sicherzustellen, dass die Arbeit nahtlos weitergehen konnte.
 
-👎 und etwas, was nicht gut lief.
+Was lief nicht gut?
+Während des Projekts gab es eine Herausforderung, als ein Mitglied des Teams nicht verfügbar war. Wir haben jedoch schnell gehandelt, um unsere Arbeitsweise anzupassen und sicherzustellen, dass wir unsere Ziele dennoch erreichen konnten.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Für das nächste Mal haben wir beschlossen, den Code, den wir jede Woche geschrieben haben, in unseren Gruppenchat zu stellen. Dadurch haben alle Gruppenmitglieder Zugriff auf den Code und können selbstständig arbeiten, ohne von einem bestimmten Teammitglied abhängig zu sein. Das sollte uns helfen, flexibler zu arbeiten und eventuellen Ausfällen besser zu begegnen..
