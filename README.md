@@ -161,7 +161,7 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 |13.1  | 04.04.23 |  nicht erfüllt         |   Meister       |
 | 14.1 | 04.04.23 |  nicht erfüllt         |  Lai     |
 
-Leider konnten wir nicht den gesamten Code, den wir hatten, erfolgreich in das Spiel integrieren, weshalb es jetzt nicht vollständig ist. Die grundlegenden Funktionen sind jedoch vorhanden.
+Leider konnten wir nicht den gesamten Code, den wir hatten, erfolgreich in das Spiel integrieren, weshalb es jetzt nicht vollständig ist. Die grundlegenden Funktionen sind jedoch vorhanden. Ausserdem hatten wir ein Problem mit einem Temamitglied welches unserem Projekt auch nicht gerade goholfen hat.
 
 
 ## 6 Auswerten
