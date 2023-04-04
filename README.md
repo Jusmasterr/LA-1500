@@ -142,8 +142,25 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |    04.04.23   |    nicht erfüllt      |    Hitz    |
+|  2.1    |   04.04.23    |    nicht erfülllt      |    Meister |
+|3.1      |   04.04.23    |  erfüllt        |   Meister   |
+| 4.1     |   04.04.23    |  erfüllt        |   Meister   |
+| 5.1     |   04.04.23    |  nicht erfüllt       |   Meister   |
+| 6.1     |   04.04.23    |   nicht erfüllt       |   Hitz     |
+| 7.1     |   04.04.23    |    nicht erfüllt      |   Hitz    |
+|7.2      |   04.04.23    | nicht erfüllt         |   Hitz    |
+|  8.1    |   04.04.23    |  nicht erfüllt        |   Lai   |
+|  8.2    |   04.04.23    |   nicht erfüllt       |   Lai    |
+|  8.3    |   04.04.23    |  nicht erfüllt        |   Lai    |
+|  9.1    |   04.04.23    |  nicht erfüllt        | Angelov   |
+|9.2  | 04.04.23 |     nicht erfüllt      |    Angelov      |
+| 10.1 | 04.04.23 |  nicht erfüllt         |  Angelov        |
+| 11.1 | 04.04.23 |  nicht erfüllt         |   Angelov       |
+| 12.1 | 04.04.23 |   nicht erfüllt        |  Meister        |
+|13.1  | 04.04.23 |  nicht erfüllt         |   Meister       |
+| 14.1 | 04.04.23 |  nicht erfüllt         |  Lai     |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
