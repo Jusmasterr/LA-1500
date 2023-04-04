@@ -5,7 +5,7 @@ Lilac: Lorenzo Lai, Justus Meister, Angel Angelov, Julian Hitz, Enrique Schneide
 
 Wir haben in unserem Projekt ein unterhaltsames Jump-and-Run-Spiel ähnlich dem bekannten "Dino Run" von Google Chrome entwickelt. Wir haben uns jedoch nicht nur auf die Umsetzung des Spiels beschränkt, sondern auch zusätzliche Features implementiert, die das Spiel noch spannender und herausfordernder machen. 
 
-## Was habe ich gelernt?
+## Was haben wir gelernt?
 
 Wir haben in diesem Projekt gelernt, wie man Objekte in Unity in einer Schleife selbst bewegen kann.
 
