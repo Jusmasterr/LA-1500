@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Lilac: Lorenzo Lai, Justus Meister, Angel Angelov, Julian Hitz, Enrique Schneider
 
 ## Einleitung
 
