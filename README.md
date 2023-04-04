@@ -156,10 +156,10 @@ Wir haben uns entschieden mehr Potions zu machen, damit das Spiel nicht so langw
 |  9.1    |   04.04.23    |  nicht erfüllt        | Angelov   |
 |9.2  | 04.04.23 |     nicht erfüllt      |    Angelov      |
 | 10.1 | 04.04.23 |  nicht erfüllt         |  Angelov        |
-| 11.1 | 04.04.23 |  nicht erfüllt         |   Angelov       |
-| 12.1 | 04.04.23 |   nicht erfüllt        |  Meister        |
+| 11.1 | 04.04.23 |  erfüllt         |   Angelov       |
+| 12.1 | 04.04.23 |  erfüllt        |  Meister        |
 |13.1  | 04.04.23 |  nicht erfüllt         |   Meister       |
-| 14.1 | 04.04.23 |  nicht erfüllt         |  Lai     |
+| 14.1 | 04.04.23 |  erfüllt         |  Lai     |
 
 Leider konnten wir nicht den gesamten Code, den wir hatten, erfolgreich in das Spiel integrieren, weshalb es jetzt nicht vollständig ist. Die grundlegenden Funktionen sind jedoch vorhanden. Ausserdem hatten wir ein Problem mit einem Teammitglied, das unserem Projekt nicht gerade geholfen hat.
 
