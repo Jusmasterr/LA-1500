@@ -15,46 +15,34 @@ Um Gegenstände zu bewegen, haben wir den folgenden Code eingesetzt. Als erstes 
 
 
 
-public class Player : MonoBehaviour
+```csharp
+public int speed = 10;
+
+bool run;
+
+private Rigidbody2D rb;
+
+// Start is called before the first frame update
+public void Start()
 {
-    public float speed = 5f;
-    
-    private Rigidbody2D rb;
-    
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
-    
-    void FixedUpdate()
-    {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
-        
-        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
-        
-        rb.AddForce(movement * speed);
-    }
+    rb = GetComponent<Rigidbody2D>();
+    run = true;
 }
 
-    
-    private Rigidbody2D rb;
-    
-    void Start()
+// Update is called once per frame
+public void Update()
+{
+    if(run == true)
     {
-        rb = GetComponent<Rigidbody2D>();
-    }
-    
-    void FixedUpdate()
-    {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
-        
-        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
-        
-        rb.AddForce(movement * speed);
+        rb.velocity = new Vector2(0 - speed, 0);
+
+        if(transform.position.x < -12)
+        {
+            transform.position = new Vector2(14, -2);
+        }
     }
 }
+```
 
 
 
