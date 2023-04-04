@@ -37,7 +37,6 @@ void Update()
 
 
 
-
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 * Eine textliche Beschreibung
