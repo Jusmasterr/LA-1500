@@ -166,4 +166,4 @@ Leider konnten wir nicht den gesamten Code, den wir hatten, erfolgreich in das S
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Jusmasterr/LA-1500/blob/main/Lernbericht.md
