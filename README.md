@@ -11,6 +11,7 @@ Gruppe-Lilac | Hitz, Meister, Angelov, Lai, Schneider
 | 07.03.2023      | 0.0.3   | Heute haben wir die Basics unseres Speils programmiert, wie die Objekte und das Springen       |
 | 14.03.2023      | 0.0.4   | Heute haben wir die Grundanforderungen des Spiels fertig PRogrammiert.      |
 | 15.03.2023      | 0.0.5   | Heute haben wir die Kann-Anforderungen weiterprogrammiert und die Präsentation für das Projekt erstellt.    |
+| 04.04.2023      | 0.0.6   | Heute haben wir die Projekt-Dokumentation beendet und den Lernbericht geschrieben |
 
 ## 1 Informieren
 
