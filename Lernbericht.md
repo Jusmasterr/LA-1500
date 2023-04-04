@@ -44,7 +44,8 @@ public void Update()
 }
 ```
 
-https://cdn.discordapp.com/attachments/1039989994800033872/1092730596842811482/MagigRun.gif
+
+![MagigRun](https://user-images.githubusercontent.com/110893098/229737825-134413c3-82f3-4bde-b4ee-f0aa6d8caf85.gif)
 
 
 ## Verifikation
