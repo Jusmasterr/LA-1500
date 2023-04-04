@@ -7,7 +7,7 @@ Wir haben eine Art "Dino Run" von Google Chrome programmiert, mit zusätzlichen 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben in diesem Projekt gelernt, wie man Objekte in Unity in einer Schleife selbst bewegen kann.
 
 ## Beschreibung
 
