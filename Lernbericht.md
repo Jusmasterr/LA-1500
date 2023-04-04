@@ -49,7 +49,11 @@ public void Update()
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Quelle 1: Dieser Text beschreibt den Code, der verwendet wurde, um ein Gameobject in Unity mit einer Rigidbody2D-Komponente in eine bestimmte Richtung zu bewegen, bis es einen bestimmten Punkt erreicht, an dem es zurückgesetzt wird und die Bewegung von vorne beginnt.
+
+Quelle 2: Dieser Code sagt einem Objekt, wie schnell es sich bewegen soll "speed". Wenn "run" läuft, bewegt es sich in eine Richtung. Wenn das Objekt an einem bestimmten Punkt angelangt ist, wird es wieder zurückgesetzt und die Bewegung beginnt von vorne.
+
+Quelle 3: Dieses GIF zeigt, wie der Spieler über das bewegende Objekt springen kann.
 
 # Reflektion zum Arbeitsprozess
 
