@@ -16,6 +16,114 @@ Um Gegenstände zu bewegen, haben wir den folgenden Code eingesetzt. Als erstes 
 ![image](https://user-images.githubusercontent.com/112430127/229719220-73b0567e-bddc-4877-8940-82380e2a2511.png)
 
 
+using System.Collections;
+
+ using System.Collections.Generic;
+
+ using UnityEngine;
+
+ public class BoxMovement : MonoBehaviour
+
+ 
+
+{
+
+ 
+
+    public int speed = 10;
+
+ 
+
+    bool run;
+
+ 
+
+ 
+
+
+    private Rigidbody2D rb;
+
+ 
+
+ 
+
+
+    // Start is called before the first frame update
+
+ 
+
+    public void Start()
+
+ 
+
+    {
+
+ 
+
+        rb = GetComponent<Rigidbody2D>();
+
+ 
+
+        run = true;
+
+ 
+
+    }
+
+ 
+
+ 
+
+
+    // Update is called once per frame
+
+ 
+
+    public void Update()
+
+ 
+
+    {
+
+ 
+
+        if(run == true)
+
+ 
+
+        {
+
+ 
+
+            rb.velocity = new Vector2(0 - speed, 0);
+
+ 
+
+ 
+
+
+            if(transform.position.x < -12)
+
+ 
+
+            {
+
+ 
+
+                transform.position = new Vector2(14, -2);
+
+ 
+
+            }
+
+ 
+
+        }
+
+ 
+
+    }
+
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 * Eine textliche Beschreibung
